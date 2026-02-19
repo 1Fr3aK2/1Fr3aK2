@@ -130,7 +130,7 @@ Designing a containerized infrastructure using Docker.
 
 ## 📫 Contact
 
-LinkedIn: https://www.linkedin.com/in/rafael-matos-7a31a632a
+LinkedIn: https://www.linkedin.com/in/rafaelmatos-
 
 Email: raamorim@student.42lisboa.com  
 
