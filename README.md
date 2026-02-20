@@ -110,14 +110,6 @@ Designing a containerized infrastructure using Docker.
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=1Fr3aK2&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1Fr3aK2&layout=compact&theme=tokyonight)
-
----
-
 ## 🔎 Areas of Interest
 
 - Systems Programming  
