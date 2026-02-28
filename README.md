@@ -33,6 +33,20 @@ I enjoy working close to the machine — understanding processes, memory, networ
 
 ## 🚀 Selected Projects
 
+### 🐳 [Inception](https://github.com/1Fr3aK2/Inception)  
+Designing a containerized infrastructure with a focus on **security, service isolation, and system hardening**.
+
+- Multi-container architecture with secure isolation  
+- NGINX configuration following best security practices  
+- MariaDB setup with restricted access and secure credentials  
+- WordPress deployment with hardened defaults  
+- Docker networks and volumes for service segmentation  
+- Fundamental system administration principles applied for secure environments  
+
+> Strengthened my understanding of secure server design, containerization, network segmentation, and infrastructure hardening.
+
+---
+
 ### 🖥️ [Minishell](https://github.com/1Fr3aK2/Minishell)
 
 Custom UNIX shell implementation inspired by bash.
@@ -75,18 +89,7 @@ Building a HTTP server from scratch in C++.
 - Concurrency management
 - Server configuration
 
-### 🐳 [Inception](https://github.com/1Fr3aK2/Inception)
-Designing a containerized infrastructure using Docker.
-
-- Multi-container architecture
-- NGINX setup
-- MariaDB configuration
-- WordPress deployment
-- Docker networks and volumes
-- System administration fundamentals
-
-> These projects are strengthening my understanding of networking, server architecture, containerization and the foundations required for secure server design and infrastructure hardening.
-
+  
 ---
 
 ## 🧠 Current Learning Focus
