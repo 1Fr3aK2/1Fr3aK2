@@ -80,7 +80,7 @@ Raycasting engine inspired by Wolfenstein 3D.
 
 Currently working on advanced system-level projects at 42:
 
-### 🌐 [Webserv](https://github.com/1Fr3aK2/Webserver)
+### 🌐 [Webserv](https://github.com/1Fr3aK2/Webserv)
 Building a HTTP server from scratch in C++.
 
 - HTTP protocol handling
