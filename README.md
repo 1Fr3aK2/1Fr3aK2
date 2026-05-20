@@ -1,49 +1,71 @@
 # 👋 Hello, I'm Rafael
 
-Low-level developer specializing in systems programming and building a strong foundation in Cybersecurity.
+Low-level developer focused on systems programming, networking, and building a strong foundation in Cybersecurity.
 
-I enjoy working close to the machine — understanding processes, memory, networking and UNIX internals.
+I enjoy working close to the machine — understanding processes, memory, networking, UNIX internals, and how modern systems communicate securely.
 
 ---
 
 ## 🔐 About Me
 
-🎓 42 School student  
-💻 Strong background in C and UNIX systems programming  
-🧠 Experience with process management, file descriptors, signals and memory handling  
-🐧 Daily Linux user  
-🔐 Focused on building a solid foundation in Cybersecurity  
+🎓 42 School student
+💻 Strong background in C/C++ and UNIX systems programming
+🧠 Experience with process management, sockets, HTTP servers, file descriptors, signals, and memory handling
+🐧 Daily Linux user
+🔐 Focused on secure software development and system-level architecture
 
-> I believe understanding memory and process behavior is essential to writing secure software.
+> I believe understanding systems internals is essential to building secure and reliable software.
 
+---
 
 ## 🛠️ Tech Stack
 
 ### Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge\&logo=gnubash\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
 
 ### Environment & Tools
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 
 ---
 
 ## 🚀 Selected Projects
 
-### 🐳 [Inception](https://github.com/1Fr3aK2/Inception)  
-Designing a containerized infrastructure with a focus on **security, service isolation, and system hardening**.
+### 🌐 [Webserv](https://github.com/1Fr3aK2/Webserv)
 
-- Multi-container architecture with secure isolation  
-- NGINX configuration following best security practices  
-- MariaDB setup with restricted access and secure credentials  
-- WordPress deployment with hardened defaults  
-- Docker networks and volumes for service segmentation  
-- Fundamental system administration principles applied for secure environments  
+Built a fully functional HTTP server from scratch in C++.
 
-> Strengthened my understanding of secure server design, containerization, network segmentation, and infrastructure hardening.
+* HTTP request parsing and response handling
+* Socket programming and client connections
+* CGI support
+* File uploads and static content serving
+* Configuration file parsing
+* Concurrency and multiple client handling
+* Deep understanding of HTTP protocol internals
+
+> Strengthened my knowledge of networking, server architecture, sockets, and low-level backend development.
+
+---
+
+### 🐳 [Inception](https://github.com/1Fr3aK2/Inception)
+
+Designed a containerized infrastructure with a focus on security and service isolation.
+
+* Multi-container Docker architecture
+* Secure NGINX reverse proxy configuration
+* MariaDB setup with restricted access
+* Hardened WordPress deployment
+* Docker networks and persistent volumes
+* Infrastructure segmentation principles
+
+> Improved my understanding of containerization, deployment workflows, and secure infrastructure design.
 
 ---
 
@@ -51,14 +73,14 @@ Designing a containerized infrastructure with a focus on **security, service iso
 
 Custom UNIX shell implementation inspired by bash.
 
-- Process creation (`fork`, `execve`, `wait`)
-- Pipes and redirections
-- File descriptor management
-- Signal handling
-- Environment variables
-- Command parsing
+* Process creation (`fork`, `execve`, `wait`)
+* Pipes and redirections
+* File descriptor management
+* Signal handling
+* Environment variables
+* Command parsing
 
-> Deep dive into how shells interact with the operating system and process control.
+> Deep dive into UNIX process control and shell internals.
 
 ---
 
@@ -66,60 +88,66 @@ Custom UNIX shell implementation inspired by bash.
 
 Raycasting engine inspired by Wolfenstein 3D.
 
-- Raycasting algorithm implementation
-- Real-time rendering
-- Texture mapping
-- Memory management
-- Mathematical computations for 3D projection
+* Raycasting algorithm implementation
+* Real-time rendering
+* Texture mapping
+* Memory management
+* Mathematical computations for 3D projection
 
-> Strengthened low-level logic, optimization and structured system design.
+> Strengthened low-level logic, optimization, and structured system design.
 
 ---
 
 ## 🔬 Currently Building
 
-Currently working on advanced system-level projects at 42:
+### 🎮 [ft_transcendence](https://github.com/1Fr3aK2/ft_transcendence)
 
-### 🌐 [Webserv](https://github.com/1Fr3aK2/Webserv)
-Building a HTTP server from scratch in C++.
+Developing a full-stack web application focused on real-time interactions and modern web architecture.
 
-- HTTP protocol handling
-- Socket programming
-- Request parsing
-- Concurrency management
-- Server configuration
+* Backend and frontend integration
+* Authentication systems
+* Real-time communication
+* User management
+* Dockerized services
+* Web application security concepts
+* Team collaboration and large-scale project organization
 
-  
+> Expanding my experience beyond low-level programming into full-stack architecture, web technologies, and secure application design.
+
 ---
 
 ## 🧠 Current Learning Focus
 
-- Modern C++ (OOP, memory safety, STL)
-- Docker and containerized environments
-- Networking fundamentals
-- Secure system design principles
+* Advanced C++
+* Networking and HTTP internals
+* Full-stack web development
+* Docker and containerized environments
+* Authentication and web security
+* Secure software architecture
 
 ---
 
 ## 🎯 Goals
 
-- Finish 42 Common Core
-- Deepen networking and system security knowledge
-- Build custom security tools in C/C++
-- Develop a port scanner and packet sniffer
-- Create a personal lab using Docker
-- Explore vulnerability research fundamentals
-- Secure an internship or junior position in Cybersecurity
+* Finish 42 Common Core
+* Deepen networking and security knowledge
+* Build custom security tools in C/C++
+* Develop low-level networking projects
+* Create a personal cybersecurity lab
+* Explore vulnerability research fundamentals
+* Secure an internship or junior position in Cybersecurity or Systems Engineering
 
 ---
 
 ## 🔎 Areas of Interest
 
-- Systems Programming  
-- Network Security  
-- Secure Software Development  
-- Reverse Engineering (beginner level)  
-- Offensive Security (long-term goal)  
+* Systems Programming
+* Backend Engineering
+* Network Security
+* Secure Software Development
+* Linux Internals
+* Reverse Engineering (beginner level)
+* Offensive Security (long-term goal)
 
 ---
 
@@ -127,7 +155,7 @@ Building a HTTP server from scratch in C++.
 
 LinkedIn: https://www.linkedin.com/in/rafaelmatos-
 
-Email: raamorim@student.42lisboa.com  
+Email: [raamorim@student.42lisboa.com](mailto:raamorim@student.42lisboa.com)
 
 ---
 
