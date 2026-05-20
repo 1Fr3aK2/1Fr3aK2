@@ -9,10 +9,15 @@ I enjoy working close to the machine — understanding processes, memory, networ
 ## 🔐 About Me
 
 🎓 42 School student
+
 💻 Strong background in C/C++ and UNIX systems programming
+
 🧠 Experience with process management, sockets, HTTP servers, file descriptors, signals, and memory handling
+
 🐧 Daily Linux user
+
 🔐 Focused on secure software development and system-level architecture
+
 
 > I believe understanding systems internals is essential to building secure and reliable software.
 
@@ -25,8 +30,6 @@ I enjoy working close to the machine — understanding processes, memory, networ
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge\&logo=gnubash\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
 
 ### Environment & Tools
 
