@@ -27,19 +27,33 @@ I enjoy working close to the machine — understanding processes, memory, networ
 
 ### Languages
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge\&logo=gnubash\&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 
 ### Environment & Tools
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
 ## 🚀 Selected Projects
+
+### 🔐 [Fortress](https://github.com/1Fr3aK2/Fortress)
+
+Containerized SSH honeypot that captures attacker credentials in real time and aggregates brute-force patterns.
+
+* TCP server with epoll and fork() per session for process isolation
+* libssh for SSH key exchange — looks like a real OpenSSH server to scanners
+* Custom hashmap + min-heap in C for log aggregation (no external libraries)
+* Docker Compose with cap_drop, read-only filesystem, tmpfs, and resource limits
+* Structured JSON logging and terminal threat reports
+
+> Built to explore systems programming, network protocols, and container hardening from first principles.
+
+---
 
 ### 🌐 [Webserv](https://github.com/1Fr3aK2/Webserv)
 
@@ -87,20 +101,6 @@ Custom UNIX shell implementation inspired by bash.
 
 ---
 
-### 🎮 [Cub3d](https://github.com/1Fr3aK2/Cub3d)
-
-Raycasting engine inspired by Wolfenstein 3D.
-
-* Raycasting algorithm implementation
-* Real-time rendering
-* Texture mapping
-* Memory management
-* Mathematical computations for 3D projection
-
-> Strengthened low-level logic, optimization, and structured system design.
-
----
-
 ## 🔬 Currently Building
 
 ### 🎮 [ft_transcendence](https://github.com/1Fr3aK2/ft_transcendence)
@@ -123,7 +123,8 @@ Developing a full-stack web application focused on real-time interactions and mo
 
 * Advanced C++
 * Networking and HTTP internals
-* Full-stack web development
+* Honeypots and threat detection
+* Linux capabilities and container hardening
 * Docker and containerized environments
 * Authentication and web security
 * Secure software architecture
