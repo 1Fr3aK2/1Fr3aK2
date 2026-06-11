@@ -103,7 +103,7 @@ Custom UNIX shell implementation inspired by bash.
 
 ## 🔬 Currently Building
 
-### 🎮 [ft_transcendence](https://github.com/1Fr3aK2/ft_transcendence)
+### 🎮 [ft_transcendence](https://github.com/1Fr3aK2/Transcendence)
 
 Developing a full-stack web application focused on real-time interactions and modern web architecture.
 
